@@ -1,6 +1,6 @@
 name="Adegite Adejuwon"
 email="adegiteadejuwon@gmail.com"
-slackusername="@A_Adejuwon"
+slackusername="@AAdejuwon"
 biostack="Genomics"
 twitterhandle="@A_Adegite"
 print(name)
