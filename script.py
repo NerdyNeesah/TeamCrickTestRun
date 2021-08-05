@@ -1,3 +1,6 @@
+
+Result Size: 753 x 611
+  
 name="Adegite Adejuwon"
 email="adegiteadejuwon@gmail.com"
 slackusername="@AAdejuwon"
@@ -8,7 +11,7 @@ print(email)
 print(slackusername)
 print(biostack)
 print(twitterhandle)
-
+​
 slackusername = "@AAdejuwon"
 twitterhandle = "@A_Adegite"
 def h_d_loop(str_1, str_2):
@@ -18,5 +21,5 @@ def h_d_loop(str_1, str_2):
             h_distance += 1
     return h_distance
     
-print("Loop Hamming Distance: ", end='')
+print("Hamming Distance: ", end='')
 print(h_d_loop(slackusername, twitterhandle))
