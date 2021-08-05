@@ -1,6 +1,3 @@
-
-Result Size: 753 x 611
-  
 name="Adegite Adejuwon"
 email="adegiteadejuwon@gmail.com"
 slackusername="@AAdejuwon"
@@ -11,7 +8,7 @@ print(email)
 print(slackusername)
 print(biostack)
 print(twitterhandle)
-​
+
 slackusername = "@AAdejuwon"
 twitterhandle = "@A_Adegite"
 def h_d_loop(str_1, str_2):
